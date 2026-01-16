@@ -1,0 +1,1 @@
+This repository contains a responsive single-page portfolio website developed to showcase personal information, skills, projects, and contact details. The website is built using standard web technologies and is suitable for hosting on GitHub Pages.
